@@ -8,9 +8,12 @@ Topic of materials with content able to move your Math Knowledge from basic do a
    * https://www.youtube.com/watch?v=fNk_zzaMoSs
 
 
+
 ## Calculus
 
 ### Intro
 * The Essence of Calculus, Chapter 1
     * https://www.youtube.com/watch?v=WUvTyaaNkzM
+* Euler's number e
+    * https://www.youtube.com/watch?v=m2MIpDrF7Es
 
