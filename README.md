@@ -6,6 +6,18 @@ Topic of materials with content able to move your Math Knowledge from basic do a
  * Math Antics - Multi-Digit Addition
    * https://www.youtube.com/watch?v=mAvuom42NyY
 
+### Subtraction
+ * Math Antics - Multi-Digit Subtraction
+   *  https://www.youtube.com/watch?v=Y6M89-6106I
+
+### Multiplication
+ * Math Antics - Multi-Digit Multiplication Pt 1
+   * https://www.youtube.com/watch?v=FJ5qLWP3Fqo
+ * Math Antics - Multi-Digit Multiplication Pt 2
+   * https://www.youtube.com/watch?v=RVYwunbpMHA
+
+
+
 ## Linear Algebra
 ### Vectors
 #### Intro
