@@ -17,6 +17,10 @@ Topic of materials with content able to move your Math Knowledge from basic do a
    * https://www.youtube.com/watch?v=RVYwunbpMHA
 
 
+## Order of operations
+ * Math Antics - Order Of Operations
+   * https://www.youtube.com/watch?v=dAgfnK528RA
+
 
 ## Linear Algebra
 ### Vectors
