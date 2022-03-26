@@ -1,7 +1,7 @@
 # MathStudy_Basic2Advance
 Topic of materials with content able to move your Math Knowledge from basic do advance in Math
 
-#Basic math operations
+# Basic math operations
 ### Addiction
  * Math Antics - Multi-Digit Addition
    * https://www.youtube.com/watch?v=mAvuom42NyY
@@ -15,6 +15,16 @@ Topic of materials with content able to move your Math Knowledge from basic do a
    * https://www.youtube.com/watch?v=FJ5qLWP3Fqo
  * Math Antics - Multi-Digit Multiplication Pt 2
    * https://www.youtube.com/watch?v=RVYwunbpMHA
+
+### Division
+ * Math Antics - Basic Division
+   * https://www.youtube.com/watch?v=KGMf314LUc0
+ * Math Antics - Long Division
+   * https://youtu.be/LGqBQrUYua4
+ * Math Antics - Long Division with 2-Digit Divisors
+   * https://www.youtube.com/watch?v=HdU_rf7eMTI
+
+
 
 
 ## Order of operations
