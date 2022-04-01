@@ -32,6 +32,12 @@ Topic of materials with content able to move your Math Knowledge from basic do a
    * https://www.youtube.com/watch?v=dAgfnK528RA
 
 
+## Importants Logicals methods
+### Zero-knowledge proof 
+In cryptography, a zero-knowledge proof or zero-knowledge protocol is a method by which one party can prove to another party that a given statement is true while the prover avoids conveying any additional information apart from the fact that the statement is indeed true
+ * How to prove you know a secret, without revealing what it is
+   * https://www.youtube.com/watch?v=V5uVKZn3F_4
+
 ## Linear Algebra
 ### Vectors
 #### Intro
