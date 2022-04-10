@@ -59,3 +59,5 @@ In cryptography, a zero-knowledge proof or zero-knowledge protocol is a method b
 
 * Logarithms
     * https://www.youtube.com/watch?v=Zw5t6BTQYRU
+* Map of Math
+    * https://www.youtube.com/watch?v=OmJ-4B-mS-Y
