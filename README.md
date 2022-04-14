@@ -36,6 +36,22 @@ Topic of materials with content able to move your Math Knowledge from basic do a
   * Math Antics - Absolute Value
     * https://www.youtube.com/watch?v=BrYy1bgh3Y0
 
+
+## Fractions
+
+### Mixed numbers
+  * Math Antics - Mixed Numbers
+    * https://www.youtube.com/watch?v=qk2oP6FZ6HA
+
+#### Addiction
+  * Math Antics - Adding Mixed Numbers
+    * https://www.youtube.com/watch?v=pynfj2bYRms
+
+#### Multiplication
+ * Math Antics - Subtracting Mixed Numbers
+    * https://youtu.be/RqUPSZLwHH0
+
+
 ## Importants Logicals methods
 ### Zero-knowledge proof 
 In cryptography, a zero-knowledge proof or zero-knowledge protocol is a method by which one party can prove to another party that a given statement is true while the prover avoids conveying any additional information apart from the fact that the statement is indeed true
