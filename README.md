@@ -66,6 +66,12 @@ The complex numbers are the set {a+bi | a and b are real numbers}, where i is th
     * https://youtu.be/RqUPSZLwHH0
 
 
+## Functions
+
+### Linear functions
+  * Basic Linear Functions - Math Antics
+    * https://www.youtube.com/watch?v=MXV65i9g1Xg
+
 ## Importants Logicals methods
 ### Zero-knowledge proof 
 In cryptography, a zero-knowledge proof or zero-knowledge protocol is a method by which one party can prove to another party that a given statement is true while the prover avoids conveying any additional information apart from the fact that the statement is indeed true
