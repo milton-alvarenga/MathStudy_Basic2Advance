@@ -65,6 +65,15 @@ In cryptography, a zero-knowledge proof or zero-knowledge protocol is a method b
    * https://www.youtube.com/watch?v=fNk_zzaMoSs
 
 
+# Geometry
+
+## Perimeter
+  * Math Antics - Perimeter
+    * https://www.youtube.com/watch?v=AAY1bsazcgM
+
+## Area
+  * Math Antics - Area
+    * https://www.youtube.com/watch?v=xCdxURXMdFY
 
 ## Calculus
 
