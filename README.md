@@ -15,6 +15,8 @@ Topic of materials with content able to move your Math Knowledge from basic do a
    * https://www.youtube.com/watch?v=FJ5qLWP3Fqo
  * Math Antics - Multi-Digit Multiplication Pt 2
    * https://www.youtube.com/watch?v=RVYwunbpMHA
+ * Math Antics - Integer Multiplication & Division (multiplication by negative number)
+   * https://www.youtube.com/watch?v=K_tPbVPfHgk
 
 ### Division
  * Math Antics - Basic Division
