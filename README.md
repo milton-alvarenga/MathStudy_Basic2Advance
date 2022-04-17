@@ -32,9 +32,23 @@ Topic of materials with content able to move your Math Knowledge from basic do a
    * https://www.youtube.com/watch?v=dAgfnK528RA
 
 
-## Absolute values
+## Number System
+Naturals, Integers, Rationals, Irrationals, Reals.
+The whole numbers are the natural numbers together with 00.
+The integers are the set of real numbers consisting of the natural numbers, their additive inverses and zero.
+The rational numbers are those numbers which can be expressed as a ratio between two integers. For example, the fractions 1/3 and −11118−1111/8 are both rational numbers. All the integers are included in the rational numbers, since any integer z can be written as the ratio z/1.
+An irrational number is a number that cannot be written as a ratio (or fraction).  In decimal form, it never ends or repeats. 
+The real numbers is the set of numbers containing all of the rational numbers and all of the irrational numbers.  The real numbers are “all the numbers” on the number line.  There are infinitely many real numbers just as there are infinitely many numbers in each of the other sets of numbers.  But, it can be proved that the infinity of the real numbers is a bigger infinity.
+The complex numbers are the set {a+bi | a and b are real numbers}, where i is the imaginary unit, √−1.
+
+
+### Absolute values
   * Math Antics - Absolute Value
     * https://www.youtube.com/watch?v=BrYy1bgh3Y0
+
+### Integer and negative numbers
+  * Math Antics - Negative Numbers
+    * https://www.youtube.com/watch?v=OAoLCXpao6s
 
 
 ## Fractions
