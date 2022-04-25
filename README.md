@@ -53,6 +53,18 @@ The complex numbers are the set {a+bi | a and b are real numbers}, where i is th
     * https://www.youtube.com/watch?v=OAoLCXpao6s
 
 
+## Algebra Basic
+  * Algebra Basics: What Is Algebra? - Math Antics
+    * https://www.youtube.com/watch?v=NybHckSEQBI
+
+### Equations
+  * Algebra Basics: Solving Basic Equations Part 1 - Math Antics
+    * https://www.youtube.com/watch?v=l3XzepN03KQ
+  * Algebra Basics: Solving Basic Equations Part 2 - Math Antics
+    * https://www.youtube.com/watch?v=Qyd_v3DGzTM
+  * Algebra Basics: Solving 2-Step Equations - Math Antics
+    * https://www.youtube.com/watch?v=LDIiYKYvvdA
+
 ## Fractions
 
 ### Mixed numbers
@@ -69,6 +81,10 @@ The complex numbers are the set {a+bi | a and b are real numbers}, where i is th
 
 
 ## Functions
+  * Algebra Basics: What Are Functions? - Math Antics
+    * https://www.youtube.com/watch?v=52tpYl2tTqk&list=PL4mRaHZim4UQPTOTHTe6uKnRoGSo5GuP4
+  
+
 
 ### Linear functions
   * Basic Linear Functions - Math Antics
