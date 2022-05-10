@@ -9,6 +9,26 @@ x + 20 + 30 = 70 - x
 6) x = 20 / 2
 7) x = 10
 
+# Solve the equations
+x + 2x + 20 = 59
+## Solution:
+1) x + 2x + 20 = 59
+2) 3x + 20 = 59
+3) 3x = 59 - 20
+4) 3x = 39
+5) x = 39 / 3
+6) x = 13
+
+# Solve the equations
+x + 20 + 4x = -5
+## Solution:
+1) x + 20 + 4x = -5
+2) 5x + 20 = -5
+3) 5x = -5 - 20
+4) 5x = -25
+5) x = -25 / 5
+6) x = 5
+
 
 # Solve the linked equations
 x + y = 10
