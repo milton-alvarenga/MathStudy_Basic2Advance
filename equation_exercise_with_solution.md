@@ -27,7 +27,7 @@ x + 20 + 4x = -5
 3) 5x = -5 - 20
 4) 5x = -25
 5) x = -25 / 5
-6) x = 5
+6) x = -5
 
 
 # Solve the linked equations
